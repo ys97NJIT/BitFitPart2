@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2E7D32</color> <!-- 짙은 녹색 -->
+    <color name="colorPrimaryDark">#1B5E20</color> <!-- 더 어두운 녹색 -->
+    <color name="colorAccent">#66BB6A</color> <!-- 중간 밝기 녹색 -->
+    <color name="toolbarText">#FFFFFF</color> <!-- 툴바 텍스트 색상 -->
+</resources>
